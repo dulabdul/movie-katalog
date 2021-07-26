@@ -27,8 +27,8 @@ Nonton Kuy is applicatin show list movie, API from [TheMovieDb](https://www.them
     * [Jasmine](https://jasmine.github.io/)
     * [Karma](https://karma-runner.github.io/latest/index.html)
   * End to End Testing(E2E)
-    * [Codecept)[https://codecept.io/]
-    * [Puppeter](https://codecept.io/]
+    * [Codecept)(https://codecept.io/)
+    * [Puppeter](https://codecept.io/)
 
 ## Tools
 * [Eslint](https://eslint.org/)
