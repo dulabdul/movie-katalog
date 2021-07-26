@@ -4,6 +4,8 @@
 * **npm install** to install node-modules
 * **npm run build** to build 
 * **npm run start-dev** to start in localhost
+* **npm run test** for run tes intregation
+* **npm run e2e** for run e2e testing
 
 Nonton Kuy is applicatin show list movie, API from [TheMovieDb](https://www.themoviedb.org/)
 
