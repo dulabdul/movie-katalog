@@ -1,4 +1,5 @@
 # Nonton_Kuy
+Project website list film yang memiliki beberapa fitur di dalam nya
 
 ## Installation and Build
 * **npm install** to install node-modules
